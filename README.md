@@ -1,1 +1,1 @@
-# tgpl
+# gopl
